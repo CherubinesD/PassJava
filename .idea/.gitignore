@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.name
+# Datasource local storage ignored files
+/../../../../../:\Source Codes\InitialIDEA\PassJava\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
